@@ -5,7 +5,6 @@
 #include <mmsystem.h>
 
 //compile with "gcc -lwinmm  postureCheck.c -o postureCheck.exe" for windows
-//compile with "gcc -lwinmm postureCheck.c -o posturecheck " for linux
 
 int main(int argc, char const *argv[])
 {
